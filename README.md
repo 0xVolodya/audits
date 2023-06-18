@@ -8,7 +8,7 @@ this repo holds a selection of recent auditing projects i've done that can be sh
 |--------------------------------------------| ---- |--------------------------------------------------------------------------------------------------------|----------------------------|
 | [eigenlayer](https://www.eigenlayer.xyz/)  | Enabling restaking of staked Ether, to be used as cryptoeconomic security for decentralized protocols and applications | [code4rena,<br /> 2nd place](https://code4rena.com/contests/2023-04-eigenlayer-contest#top)            | not available yet          |
 | [venus](https://app.venus.io/)             | Earn, Borrow & Lend on the #1 Decentralized Money Market on the BNB Chain | [code4rena,<br /> 3nd place](https://code4rena.com/contests/2023-05-venus-protocol-isolated-pools#top) | not available yet          |
-| [Ajna](https://www.ajna.finance/)  | A peer to peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non fungible tokens as collateral. | code4rena | [report](reports/ajna.md)  |
+| [Ajna](https://www.ajna.finance/)  | A peer to peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non fungible tokens as collateral. | code4rena | not available yet  |
 | [Canto](https://twitter.com/CantoIdentity) | Subprotocols for Canto Identity Protocol. | [code4rena,<br /> 4nd place](https://code4rena.com/contests/2023-03-canto-identity-subprotocols-contest#top) | [report](reports/canto.md) |
 
 ### About **0xVolodya**
