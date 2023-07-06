@@ -13,10 +13,10 @@ this repo holds a selection of recent auditing projects i've done that can be sh
 
 ### About **0xVolodya**
 
-0xVolodya is an independent smart contract security researcher. Warden at [code4rena](https://code4rena.com/), Ranked #2 out of 343 on the 60-day leaderboard,
-ranked #5 out of 530 on the 90-day leaderboard. You can say hi on Twitter at [@0xVolodya](https://twitter.com/0xVolodya).
+0xVolodya is an independent smart contract security researcher. Warden at [code4rena](https://code4rena.com/).\
+Ranked #1 on the 60-day leaderboard, and ranked #2 on the 90-day leaderboard. You can say hi on Twitter at [@0xVolodya](https://twitter.com/0xVolodya).
 
-![image](https://i.ibb.co/pPXwQtb/Screenshot-from-2023-06-15-10-44-11.png)
+![image](https://pbs.twimg.com/profile_banners/3988136668/1688113444/1500x500)
 
 ### availability
 
