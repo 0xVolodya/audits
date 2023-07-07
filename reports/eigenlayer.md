@@ -1,3 +1,16 @@
+<table>
+    <tr><th></th><th></th></tr>
+    <tr>
+        <td><img src="https://pbs.twimg.com/profile_images/1635879999264940033/_pozth32_400x400.jpg" width="250" height="250" /></td>
+        <td>
+            <h1>EigenLayer Audit Report</h1>
+            <h2>Enabling restaking of staked Ether</h2>
+            <p>Prepared by: 0xVolodya, Independent Security Researcher</p>
+            <p>Date: Apr 28 to May 5, 2023</p>
+        </td>
+    </tr>
+</table>
+
 # About EigenLayer
 EigenLayer (formerly 'EigenLayr') is a set of smart contracts deployed on Ethereum that enable restaking of assets to secure new services.
 At present, this repository contains both the contracts for EigenLayer and a set of general "middleware" contracts, designed to be reuseable across different applications built on top of EigenLayer.
