@@ -1,16 +1,3 @@
-<table>
-    <tr><th></th><th></th></tr>
-    <tr>
-        <td><img src="https://pbs.twimg.com/profile_images/1635879999264940033/_pozth32_400x400.jpg" width="250" height="250" /></td>
-        <td>
-            <h1>EigenLayer Audit Report</h1>
-            <h2>Enabling restaking of staked Ether</h2>
-            <p>Prepared by: 0xVolodya, Independent Security Researcher</p>
-            <p>Date: Apr 28 to May 5, 2023</p>
-        </td>
-    </tr>
-</table>
-
 # About EigenLayer
 EigenLayer (formerly 'EigenLayr') is a set of smart contracts deployed on Ethereum that enable restaking of assets to secure new services.
 At present, this repository contains both the contracts for EigenLayer and a set of general "middleware" contracts, designed to be reuseable across different applications built on top of EigenLayer.
@@ -26,17 +13,17 @@ The [Layr-Labs/eigenlayer-contracts](https://github.com/Layr-Labs/eigenlayer-con
 # Summary of Findings
 Not yet available
 
-| ID     | Title                        | Severity | Fixed |
-|--------| ---------------------------- |----------| ----- |
-| [H-01] | "verifyAndProcessWithdrawal" can be abused to steal from every validator at least once | High     |  ✓ |
-| [H-02] | It is impossible to slash queued withdrawals that contain a malicious strategy due to a misplacement of the ++i increment | High     |  ✓ |
-| [L-01] | computePhase0Eth1DataRoot always returns an incorrect Merkle tree | Low     |  ✓ |
-| [L-02] | processInclusionProofKeccak does not work as expected | Low     |  ✓ |
-| [L-03 | merkleizeSha256 doesn’t work as expected | Low     |  ✓ |
-| [L-04] | claimableUserDelayedWithdrawals sometimes returns unclaimable DelayedWithdrawals, so users will see incorrect data | Low     |  ✓ |
-| [L-05] | The condition for full withdrawals in the code is different from that in the documentation | Low     |  ✓ |
-| [L-06] | Missing validation to a threshold value on full withdrawal | Low     |  ✓ |
-| [L-07] | User can stake twice on beacon chain from same eipod, thus losing funds due to same withdrawal credentials | Low     |  ✓ |
+| ID        | Title                        | Severity | Fixed |
+|-----------| ---------------------------- |----------| ----- |
+| [H-01]    | "verifyAndProcessWithdrawal" can be abused to steal from every validator at least once | High     |  ✓ |
+| [H-02]    | It is impossible to slash queued withdrawals that contain a malicious strategy due to a misplacement of the ++i increment | High     |  ✓ |
+| [L-01]    | computePhase0Eth1DataRoot always returns an incorrect Merkle tree | Low     |  ✓ |
+| [L-02]    | processInclusionProofKeccak does not work as expected | Low     |  ✓ |
+| [L-03]    | merkleizeSha256 doesn’t work as expected | Low     |  ✓ |
+| [L-04]    | claimableUserDelayedWithdrawals sometimes returns unclaimable DelayedWithdrawals, so users will see incorrect data | Low     |  ✓ |
+| [L-05]    | The condition for full withdrawals in the code is different from that in the documentation | Low     |  ✓ |
+| [L-06]    | Missing validation to a threshold value on full withdrawal | Low     |  ✓ |
+| [L-07]    | User can stake twice on beacon chain from same eipod, thus losing funds due to same withdrawal credentials | Low     |  ✓ |
 
 # Detailed Findings
 
