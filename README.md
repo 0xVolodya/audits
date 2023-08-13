@@ -1,8 +1,8 @@
 # 0xVolodya audit reports
 
-this repo holds a selection of recent auditing projects i've done that can be shared publicly.
+This repo holds a selection of recent auditing projects i've done that can be shared publicly.
 
-### past audits
+### Past audits
 
 | protocol                                   | info | place                                                                                                        | report                          |
 |--------------------------------------------| ---- |--------------------------------------------------------------------------------------------------------------|---------------------------------|
@@ -19,6 +19,6 @@ Ranked #1 on the 60-day leaderboard. You can say hi on Twitter at [@0xVolodya](h
 
 ![image](https://pbs.twimg.com/profile_banners/3988136668/1688113444/1500x500)
 
-### availability
+### Availability
 
 currently available for projects. dm me [@0xVolodya](https://twitter.com/0xVolodya).
