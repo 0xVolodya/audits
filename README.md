@@ -22,5 +22,3 @@ Ranked #1 on the 60-day leaderboard. You can say hi on Twitter at [@0xVolodya](h
 ### availability
 
 currently available for projects. dm me [@0xVolodya](https://twitter.com/0xVolodya).
-https://github.com/code-423n4/2023-08-verwa.git
-git@github.com:code-423n4/2023-08-verwa.git
