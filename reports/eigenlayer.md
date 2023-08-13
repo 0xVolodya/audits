@@ -15,10 +15,6 @@
 EigenLayer (formerly 'EigenLayr') is a set of smart contracts deployed on Ethereum that enable restaking of assets to secure new services.
 At present, this repository contains both the contracts for EigenLayer and a set of general "middleware" contracts, designed to be reuseable across different applications built on top of EigenLayer.
 
-# About **0xVolodya**
-
-0xVolodya is an independent smart contract security researcher. Warden at code4rena, Ranked #1 on the 60-day leaderboard. You can say hi on Twitter at [@0xVolodya](https://twitter.com/0xVolodya).
-
 # Summary & Scope
 
 The [Layr-Labs/eigenlayer-contracts](https://github.com/Layr-Labs/eigenlayer-contracts) repository was audited at commit [7a23e259050fe88a179ab0345cc8cfc9b5e57221](https://github.com/Layr-Labs/eigenlayer-contracts/commit/7a23e259050fe88a179ab0345cc8cfc9b5e57221).
@@ -26,7 +22,7 @@ The [Layr-Labs/eigenlayer-contracts](https://github.com/Layr-Labs/eigenlayer-con
 # Summary of Findings
 Not yet available
 
-| <div style="width:40px">ID</div> | Title                                                                                  | Severity | Fixed |
+| &nbsp;&nbsp;&nbsp;ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title                                                                                  | Severity | Fixed |
 |----------------------------------|----------------------------------------------------------------------------------------|----------| ----- |
 | [H-01]                           | "verifyAndProcessWithdrawal" can be abused to steal from validator | High     |  ✓ |
 | [H-02]                           | It is impossible to slash some queued withdrawals                                      | High     |  ✓ |
