@@ -17,7 +17,6 @@ Venus is a decentralized finance (DeFi) algorithmic money market protocol on BNB
 Decentralized lending pools are very similar to traditional lending services offered by banks, except that they are offered by P2P decentralized platforms. Users can leverage assets by borrowing and lending assets listed in a pool. Lending pools help crypto holders earn a substantial income through interest paid on their supplied assets and access assets they don't currently own without selling any of their portfolio.
 
 # Summary of Findings
-Not yet available
 
 | &nbsp;&nbsp;&nbsp;ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Title                                                                                  | Severity | Fixed |
 |----------------------------------|----------------------------------------------------------------------------------------|----------|------|
